@@ -1,0 +1,25 @@
+{
+  "name": "haro-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord x GroupMe bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZKFrontMan/haro-discord-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "GroupMe",
+    "Bot",
+    "Node"
+  ],
+  "author": "Stephen Ward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZKFrontMan/haro-discord-bot/issues"
+  },
+  "homepage": "https://github.com/ZKFrontMan/haro-discord-bot#readme"
+}
